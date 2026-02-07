@@ -7,3 +7,6 @@ Amazon Bedrock
 Fastest growing Gen AI service in aws currently.
 
 GenAI is subset of Deep learning, used to generate new data.
+
+feed lots of unlabelled data to foundational pre trined models.
+The models may cost millions of dollar
