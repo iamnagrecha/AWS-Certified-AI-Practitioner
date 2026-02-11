@@ -1,1 +1,5 @@
 RAG- Retrieval Augmented Generation
+
+Allows a FM to ref a data source outside its training data
+
+Bedrock takes care of creating Vector Embeddings in db of your choice.
