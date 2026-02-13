@@ -6,3 +6,8 @@ Bedrock Agent Setup
 
 Cloud Watch
 - metrics/alarms , model invocatioon logging
+
+BedRock
+Pricing- Pay as you go
+- Text Models- charge for every i/p & o/p token processed
+
