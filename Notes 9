@@ -7,3 +7,5 @@ Top P (0 to 1)
 
 Low P- considers the 25% most likely words
 High P- wide range of possible words
+
+Top K- Limits the number of probable words
