@@ -1,3 +1,8 @@
 Amazon Q for EC2
 
 EC2 instances are virtual servers we can start using Q
+
+AWS Chatbot- to deploy chatbot in slack or microsoft teams, that knows abt the aws account
+- helps in triobleshoot issue
+
+Glue- is ETL service used to move data across places
