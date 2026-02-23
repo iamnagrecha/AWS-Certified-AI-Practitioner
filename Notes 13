@@ -6,4 +6,4 @@ Model Layer
 Application layer
 
 ML- make predictions based on the data trained e.g. regression or classification
-DL- uses neurons to train our model, deep bcz it has more than one layer of learning. e.g. NLP, computer vision
+DL- uses neurons to train our model, deep bcz it has more than one layer of learning. e.g. NLP, computer vision. it requires Graphical processing unit
