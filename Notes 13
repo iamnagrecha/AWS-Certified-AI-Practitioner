@@ -9,3 +9,5 @@ ML- make predictions based on the data trained e.g. regression or classification
 DL- uses neurons to train our model, deep bcz it has more than one layer of learning. e.g. NLP, computer vision. it requires Graphical processing unit
 
 Neural Networks- nodes talikng to each other, by passing on (or not) data to next layer
+
+Gen AI- subset of deep learning, multi-purpose FM, can be fine tuned, transformer model (LLM)
