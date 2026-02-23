@@ -13,3 +13,5 @@ Neural Networks- nodes talikng to each other, by passing on (or not) data to nex
 Gen AI- subset of deep learning, multi-purpose FM, can be fine tuned, transformer model (LLM), process sentences efficientely 
 , process it as a whole and not word to word
 ChatGPT (chat Generative pretrained transformer)
+
+Multimodal Models- can use more than single type of i/p and generate o/p
