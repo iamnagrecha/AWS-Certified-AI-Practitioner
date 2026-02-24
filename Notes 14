@@ -5,3 +5,5 @@ BERT(Bidirectional encoder representations from transformers)- similar intent to
 GAN (generative adversarial network)- genrates synthetic data like images, vidos or sound, for data augmentation
 ResNET (Residual Network- part of deep learning)- for images
 SVM (support vector machines)- ML algo
+
+Labelled data can be costly, so most data is unlabelled
