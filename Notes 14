@@ -1,3 +1,5 @@
+Terms IMP for Exam
+
 GPT (generative pre-trained transformer)
 BERT(Bidirectional encoder representations from transformers)- similar intent to GPT, but reads text in two directions
 GAN (generative adversarial network)- genrates synthetic data like images, vidos or sound, for data augmentation
