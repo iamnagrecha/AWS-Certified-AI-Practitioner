@@ -5,3 +5,7 @@ ML Algo- SUpervised learning
 60-80% is training data 
 10-20% validation set
 10-20% Test set
+
+Unsupervised learning- Fraud detection
+
+Technique- Isolation Forest, to get the outlier
