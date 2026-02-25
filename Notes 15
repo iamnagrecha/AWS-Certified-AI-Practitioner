@@ -9,3 +9,5 @@ ML Algo- SUpervised learning
 Unsupervised learning- Fraud detection
 
 Technique- Isolation Forest, to get the outlier
+
+Semi Supervised learning- small amount of labelled data, large unlabelled data
