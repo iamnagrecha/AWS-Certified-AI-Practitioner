@@ -1,3 +1,7 @@
 Self supervised learning
 - models can label the data itself
 - we feed large amount of text data for the model to learn english language
+- used in NLP, image recognition
+
+Reinforcement learning
+- Agent learns to make decisions by performing actions in env to max rewards
