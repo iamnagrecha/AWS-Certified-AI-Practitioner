@@ -5,3 +5,11 @@ Self supervised learning
 
 Reinforcement learning
 - Agent learns to make decisions by performing actions in env to max rewards
+
+Key concepts
+- Agents
+- Env
+- Action
+- Reward
+- State
+- Policy
