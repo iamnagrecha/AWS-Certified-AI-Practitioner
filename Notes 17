@@ -8,10 +8,12 @@ Balanced- neither under nor over
 Bias & Variance
 
 Bias- diff between predicted and actual values
-if High bias- underfitting
+if High bias, low variance- underfitting
 
 Variance- how much performance changes if trained on diff data
 to reduce, consider less features, split data multiple times
-HIgh variance- overfitting
+Low Bias, HIgh variance- overfitting
 
 Balanced- low bias & low variance
+
+confusion matrix
