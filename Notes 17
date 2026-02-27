@@ -4,3 +4,11 @@ overfitting- good on training but bad in evaluation
 or underfitting- bad on training data, could be simple
 
 Balanced- neither under nor over
+
+Bias & Variance
+
+Bias- diff between predicted and actual values
+if High bias- underfitting
+
+Variance- how much performance changes if trained on diff data
+HIgh variance- overfitting
