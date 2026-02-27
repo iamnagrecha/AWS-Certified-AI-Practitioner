@@ -22,3 +22,5 @@ Precision
 Recall
 F1
 Accuracy- used to evaluate binary classification (exam question)
+
+MAE, MAPE, R2. RMSE used to evaluate models that predict continuos values ex- regression
