@@ -20,3 +20,5 @@ confusion matrix
 
 Precision
 Recall
+F1
+Accuracy- used to evaluate binary classification (exam question)
