@@ -1,1 +1,6 @@
+Model fit
 
+overfitting- good on training but bad in evaluation
+or underfitting- bad on training data, could be simple
+
+Balanced- neither under nor over
