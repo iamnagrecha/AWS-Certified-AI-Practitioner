@@ -9,3 +9,8 @@ Inferencing at the edge
 
 Small language model on edge device e.g. Raspberry Pi
 can be offline
+
+Phases of ML Projects
+
+1) define business goals
+2) ML Problem framing
