@@ -2,3 +2,7 @@ ML- Inferencing
 
 - when model makes prediction on new data
 - RT & Batch
+
+Inferencing at the edge
+
+- devices with less computing power & are close to where data is generated e.g. Raspberry Pi
