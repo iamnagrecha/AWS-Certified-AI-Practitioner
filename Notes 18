@@ -5,4 +5,7 @@ ML- Inferencing
 
 Inferencing at the edge
 
-- devices with less computing power & are close to where data is generated e.g. Raspberry Pi
+- devices with less computing power & are close to where data is generated 
+
+Small language model on edge device e.g. Raspberry Pi
+can be offline
