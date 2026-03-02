@@ -21,3 +21,7 @@ Phases of ML Projects
 Hyperparameter tuning
 
 - settings that define model structure
+
+Overfitting- when models gives good predictions, when using smal data
+
+need to increase train data size
