@@ -1,3 +1,6 @@
 AWS AI Services
 
 Sage maker, bedrock, Q Business & Q Dev
+
+Amazon Comprehend- used for NLP
+- fully managed & serverless
