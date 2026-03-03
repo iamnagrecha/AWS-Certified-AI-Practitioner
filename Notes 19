@@ -5,3 +5,6 @@ Sage maker, bedrock, Q Business & Q Dev
 Amazon Comprehend- used for NLP
 - fully managed & serverless
 - analyze text using tokenization
+- custom classification
+- train data in amazon S3
+- ex- classify customer emails
