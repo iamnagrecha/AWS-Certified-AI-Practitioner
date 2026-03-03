@@ -8,3 +8,6 @@ Amazon Comprehend- used for NLP
 - custom classification
 - train data in amazon S3
 - ex- classify customer emails
+
+NER (Named Entity Recognition
+- extract entities like name from text
