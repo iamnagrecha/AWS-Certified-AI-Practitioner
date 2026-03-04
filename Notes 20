@@ -1,4 +1,14 @@
-Amazon Transcribe- translates speech into text
+Amazon Transcribe- 
+
+translates speech into text
 uses deep learning- ASR (automatic speech recognition)
 Removes PII using Redaction
 use cases- customer service calls
+
+Amazon Polly
+
+turns text into speech using deep learning
+- advanced features- lexicons e.g. aws- amazon web services
+
+can you SSML- markup language- eg break, so there is break in the speech
+- to get pause in between two words
