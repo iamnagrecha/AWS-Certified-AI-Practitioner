@@ -1,1 +1,4 @@
-
+Amazon Transcribe- translates speech into text
+uses deep learning- ASR (automatic speech recognition)
+Removes PII using Redaction
+use cases- customer service calls
