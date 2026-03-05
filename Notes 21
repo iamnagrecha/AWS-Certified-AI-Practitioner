@@ -8,3 +8,6 @@ find objexts, people, used for labeling
 - celeb recognition
 
 labelled data -> Amazon S3 -> training
+
+Amazon Lex- builds chatbots quickly, using voice & text
+- supports multiple languages
