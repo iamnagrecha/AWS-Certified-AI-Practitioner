@@ -5,3 +5,5 @@ find objexts, people, used for labeling
 - content moderation
 - Text detction
 - celeb recognition
+
+labelled data -> Amazon S3 -> training
