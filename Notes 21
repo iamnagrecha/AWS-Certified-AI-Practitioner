@@ -3,6 +3,7 @@ Amazon Reckognition
 find objexts, people, used for labeling
 - face analysis & detection
 - content moderation- can create an API for this as well
+- can blur images as well
 - Text detction
 - celeb recognition
 
