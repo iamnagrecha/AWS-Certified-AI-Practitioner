@@ -1,1 +1,4 @@
+Amazon Personalize
 
+- RT personalized recommendations
+i/p from amazon S3 or API, same tech used by amazon.com
