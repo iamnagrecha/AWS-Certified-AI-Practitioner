@@ -6,4 +6,4 @@ i/p from amazon S3 or API, same tech used by amazon.com
 
 Amazon TextTract
 - used to extract text from any doc using AI & ML
-
+- can extract tables as well, and answer queries
