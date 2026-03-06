@@ -7,3 +7,9 @@ i/p from amazon S3 or API, same tech used by amazon.com
 Amazon TextTract
 - used to extract text from any doc using AI & ML
 - can extract tables as well, and answer queries
+
+Amazon Kendra
+- document search service powered by ML
+- extract answers from within the doc
+- Natural language search capabilities
+data source-indexing-Kendra
