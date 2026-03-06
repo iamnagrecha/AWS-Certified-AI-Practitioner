@@ -14,3 +14,8 @@ Amazon Kendra
 - Natural language search capabilities
 - data source-indexing-Kendra
 - documents and services (exam)
+
+Amazon Mechanical Turk
+- perform simple human tasks
+- ex- label 10 million images & actaul humans will tag those images
+- used for image classification, data collection, business processing
