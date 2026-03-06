@@ -4,5 +4,6 @@ Amazon Personalize
 i/p from amazon S3 or API, same tech used by amazon.com
 - use case- websites / apps, retail etc.
 
-Amazon Text Tract
+Amazon TextTract
 - used to extract text from any doc using AI & ML
+
