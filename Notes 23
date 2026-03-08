@@ -10,3 +10,9 @@ Amazon Transcribe Medical
 - converts medical related speech to text
 - specilizes in medical names
 - supports both batch and real time transcriptions
+
+Amazon Comprehend Medical
+- extracts useful info from unstructured clinical tesxt
+- uses NLP
+- data stored in S3
+- RT using Kinesis hose
