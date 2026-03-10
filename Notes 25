@@ -2,3 +2,15 @@ Amazon Sagemaker
 
 For Dev & Data Scientist to build ML Models
 - ex- To predict next exam score
+
+Built-in Algorithms
+- linear regression & classification
+- KNN
+- Image recognition
+
+AMT (Automatic Model Tuning)
+- it chooses hyperparameter ranges
+- saves time & money
+
+Model deployment is esay by just one click
+- self hosted solution
