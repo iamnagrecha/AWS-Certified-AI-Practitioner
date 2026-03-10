@@ -14,3 +14,13 @@ AMT (Automatic Model Tuning)
 
 Model deployment is esay by just one click
 - self hosted solution
+- Realtime (one prediction at a time)
+
+- Serverless
+-idle period between traffic spikes
+
+Asynchronous
+- For large payloads upto 1GB
+- long processing
+
+Batch Transform (high latency)
