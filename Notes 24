@@ -9,3 +9,6 @@ Amazon's hardware for AI
 - GPU Based instances (P3, P4, P5..., G3,,,G6,,,)
 - AWS Trainium
 - ML Chip built to perform DL on 100B+ parameter modes
+
+AWS Inferntia
+- high performance & low cost
