@@ -1,1 +1,8 @@
+Sage maker- Data wrangler
 
+-imports & transform data
+-visualize data
+- data flow can be exported
+
+ML Features
+- are i/p to training & used for inference
