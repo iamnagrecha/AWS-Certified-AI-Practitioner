@@ -10,3 +10,6 @@ Model Dashboards/ Monitor
 
 - To have a look at quality once deployed
 - if deviation than we get an alert
+
+Model Registry
+- centralized repo to track , mange the ML models
