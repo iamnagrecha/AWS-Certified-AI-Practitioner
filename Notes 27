@@ -13,3 +13,10 @@ Model Dashboards/ Monitor
 
 Model Registry
 - centralized repo to track , mange the ML models
+- manage approval statu sof models
+
+Sage maker Pipelines
+
+- WF that automates process of building, training ML Models
+- CI/CD for ML
+- Repeatable mechanisms
