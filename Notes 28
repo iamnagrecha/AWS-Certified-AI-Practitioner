@@ -2,3 +2,5 @@ Sage maker- extra features
 
 - Network isolation mode- run conatiners without internet access
 - can't even acess S3
+
+DeepAR forecasting also- used to forecast time series data, uses RNN
