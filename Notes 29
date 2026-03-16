@@ -3,3 +3,7 @@ Gen AI Capabilities & challenges
 Toxicity
 - generating content which is offensive or inappropriate
 - Mitigation- use gaurdrails
+
+Hallucinations
+- assertions that sound true but are incorrect
+- must check & verify content, mark it as unverfied
