@@ -7,3 +7,6 @@ Toxicity
 Hallucinations
 - assertions that sound true but are incorrect
 - must check & verify content, mark it as unverfied
+
+Prompt misuses
+- poisoning- introducing biased data into training data
