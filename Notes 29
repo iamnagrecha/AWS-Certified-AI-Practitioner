@@ -10,3 +10,4 @@ Hallucinations
 
 Prompt misuses
 - poisoning- introducing biased data into training data
+- jailbreaking- filtering offensive content, however, jailbreaking trying to break this
