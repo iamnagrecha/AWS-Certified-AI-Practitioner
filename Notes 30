@@ -11,3 +11,6 @@ Model cards
 - to document details about ML model
 - helpful for audit purposes
 - intended for risk rating of the model
+
+Governance stratergies
+- Policies- data management, model training
