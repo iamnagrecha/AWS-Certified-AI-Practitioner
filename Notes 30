@@ -6,3 +6,8 @@ Difficult to Audit AI System, as it changes over time
 
 AWS Complaince
 - more than 140 security standards
+
+Model cards
+- to document details about ML model
+- helpful for audit purposes
+- intended for risk rating of the model
