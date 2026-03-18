@@ -1,3 +1,7 @@
 Security & Privacy for AI systems
 
 Threat detection, infra protection
+
+Prompt injection
+- manipuleted input prompt
+- implement guardrails
