@@ -15,3 +15,8 @@ Monitor Performcance meteric
 AWS shared security Model
 - AWS- security of the cloud
 - You- Security in the cloud
+
+Best Practices
+- SSO, MFA
+- review access rights
+- Monitor and test data integrity controls
