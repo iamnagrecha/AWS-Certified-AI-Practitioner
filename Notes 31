@@ -5,3 +5,13 @@ Threat detection, infra protection
 Prompt injection
 - manipuleted input prompt
 - implement guardrails
+
+Monitor Performcance meteric
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+
+AWS shared security Model
+- AWS- security of the cloud
+- You- Security in the cloud
