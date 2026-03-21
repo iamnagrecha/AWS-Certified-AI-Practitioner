@@ -7,3 +7,9 @@ MLOps
 - automation
 - CI/CD
 - continuous retraining & monitoring
+
+IAM Section-  global service
+
+- identity & access management
+- users can be part of multiple groups
+- groups only contains users
