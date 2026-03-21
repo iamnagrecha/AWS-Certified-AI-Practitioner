@@ -1,1 +1,9 @@
+Gen AI Security scoping Matrox
 
+MLOps
+
+- models are dev, but also deployed , monitored
+- version control
+- automation
+- CI/CD
+- continuous retraining & monitoring
