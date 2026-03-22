@@ -4,3 +4,6 @@ create users, assign permissions
 - if you put users in groups, easier to manage permissions
 
 - root account vs IAM user login
+
+Multi session support
+- 2 accounts on two diff browser windows.
