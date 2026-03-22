@@ -1,1 +1,4 @@
 IAM - Global service
+
+create users, assign permissions
+- if you put users in groups, easier to manage permissions
