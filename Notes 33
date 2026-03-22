@@ -7,3 +7,10 @@ create users, assign permissions
 
 Multi session support
 - 2 accounts on two diff browser windows.
+
+IAM Policies
+
+- Group level- gets applied to all users
+- Inline policy- onlt user specific
+
+- IAM policy structure- json objects
