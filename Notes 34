@@ -10,4 +10,5 @@ Get * )can encompass many api calls together)
 - can create our own policy, authorize diff actions
 
 IAM Roles
-- 
+- just like user, intended to be used by AWS services, not by people
+- ex- EC2 instance, may want to perform some actions to access aws or call which its trying to make
