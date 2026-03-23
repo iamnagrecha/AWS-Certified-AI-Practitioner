@@ -1,3 +1,5 @@
 IAM
 
 - users/groups and permissions
+- read only access can not create a grp
+- IAM Full access- can create groups
