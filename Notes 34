@@ -5,3 +5,6 @@ IAM
 - IAM Full access- can create groups
 
 Permissions defined in jsons
+
+Get * )can encompass many api calls together)
+- can create our own policy
