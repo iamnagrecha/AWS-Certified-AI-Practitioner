@@ -7,4 +7,4 @@ IAM
 Permissions defined in jsons
 
 Get * )can encompass many api calls together)
-- can create our own policy
+- can create our own policy, authorize diff actions
