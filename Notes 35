@@ -9,4 +9,5 @@ stores files in buckets
 - buckets have global unique names
 - naming convention- all lowercase, no undersores
 - objects have a key, key is full path (prefix + object name)
+- everything in S3 is keys, very long, includes slahes (/)
 
