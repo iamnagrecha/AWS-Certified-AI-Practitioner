@@ -10,4 +10,4 @@ stores files in buckets
 - naming convention- all lowercase, no undersores
 - objects have a key, key is full path (prefix + object name)
 - everything in S3 is keys, very long, includes slahes (/)
-
+- MAX size- 5 ztb
