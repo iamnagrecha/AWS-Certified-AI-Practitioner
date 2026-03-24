@@ -1,4 +1,4 @@
-S3
+Amazon S3
 - backup and storage
 - Archive
 - App hosting
@@ -6,3 +6,5 @@ S3
 - software delivery
 
 stores files in buckets
+- buckets have global unique names
+- naming convention- all lowercase, no undersores
