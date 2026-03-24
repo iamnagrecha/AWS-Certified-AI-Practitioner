@@ -8,3 +8,5 @@ Amazon S3
 stores files in buckets
 - buckets have global unique names
 - naming convention- all lowercase, no undersores
+- objects have a key, key is full path (prefix + object name)
+
