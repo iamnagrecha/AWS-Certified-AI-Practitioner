@@ -6,3 +6,6 @@ EC2
 - most popular- elastic compute cloud- IAAS
 - can rent virtual machines
 - fundamental to understand how the cloud works
+
+OS- Linux, windows or MacOS
+- can configure CPU. RAM, Storage space (EBS & EFS)
