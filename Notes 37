@@ -9,3 +9,4 @@ AWS Lambda
 
 Event Driven- gets invoked when needed
 - esy monitoting through cloudwatch
+- multiple langiage supports- nodejs/python/ruby/javascript
