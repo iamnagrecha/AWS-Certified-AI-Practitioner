@@ -17,3 +17,7 @@ serverless thumnail
 - trigger lambda function
 - new thumbnail in S3
 - Metadata in DynamoDB
+
+Serververless CRON Job
+- cloudwatch Events- EventBridge
+- pricing- pay per call- 1st 1 million invocations are free
