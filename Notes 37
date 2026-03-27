@@ -6,3 +6,6 @@ AWS Lambda
 - virtual functions, no server
 - run, on-demand
 - easy pricing- pay per request & compute time
+
+Event Driven- gets invoked when needed
+- esy monitoting through cloudwatch
