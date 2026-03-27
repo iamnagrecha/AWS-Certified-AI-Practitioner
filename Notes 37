@@ -10,3 +10,10 @@ AWS Lambda
 Event Driven- gets invoked when needed
 - esy monitoting through cloudwatch
 - multiple langiage supports- nodejs/python/ruby/javascript
+
+serverless thumnail
+
+- upload image in S3
+- trigger lambda function
+- new thumbnail in S3
+- Metadata in DynamoDB
