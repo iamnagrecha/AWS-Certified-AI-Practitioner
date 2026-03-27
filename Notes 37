@@ -1,2 +1,8 @@
 in Cloud, we can start/stop instances
 - if we stop, no billing by aws
+
+AWS Lambda
+
+- virtual functions, no server
+- run, on-demand
+- easy pricing- pay per request & compute time
