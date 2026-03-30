@@ -13,3 +13,5 @@ For EC2 instances
 For Lambda functions
 
 For Container Images push to Amazon ECR
+
+- does continuos scanning of infrastructure when needed
