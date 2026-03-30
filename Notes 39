@@ -2,3 +2,4 @@ AWS Config
 
 -helps with auditing & recording compliance of your aws resourses
 -if enabled, need to pay
+- can review configuration timelines & if they are compliant or not
