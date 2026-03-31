@@ -4,3 +4,8 @@ Provides, compliance & audit for AWS account
 - all activities are logged
 - can send trail to S3
 - if need to look at an API call, use cloudtrail
+
+AWS Atifact (not really a service)
+
+- access to aws compliance documents & aws agreements
+- PCI reports
