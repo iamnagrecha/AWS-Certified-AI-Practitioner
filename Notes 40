@@ -9,3 +9,9 @@ AWS Atifact (not really a service)
 
 - access to aws compliance documents & aws agreements
 - PCI (payment card industry) reports
+
+AWS Audit Manager
+
+- assess risk & complaince of aws workloads
+- continuous audit aws services usage & prepare audits
+- generates reports of complaince along with evidence folders
