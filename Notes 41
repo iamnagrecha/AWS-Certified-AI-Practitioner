@@ -14,3 +14,5 @@ VPC (virtual private cloud)- Crash course
 
 aws services by default over public interbet
 - VOC enndpoints- to access aws service privately
+
+S3 Gateway endpoint- acess amazon s3 privately
