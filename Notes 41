@@ -5,3 +5,9 @@ High level aws acc assessment
 
 - recommended actions, cost, performance, etc.
 - security, service limits, operational excellance
+
+VPC (virtual private cloud)- Crash course
+
+- private network to deploy resources
+
+- deply models privately, or access aws services without internet access
