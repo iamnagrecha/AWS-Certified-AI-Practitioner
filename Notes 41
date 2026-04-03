@@ -11,3 +11,6 @@ VPC (virtual private cloud)- Crash course
 - private network to deploy resources
 
 - deply models privately, or access aws services without internet access
+
+aws services by default over public interbet
+- VOC enndpoints- to access aws service privately
