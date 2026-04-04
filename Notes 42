@@ -3,3 +3,5 @@ Amazon Bedrock- must access encrypted S3 bucket
 - it must have IAM role that gives it access to:
 - S3
 - KMS Key with decrypt permission
+
+- deploy SageMaker Model in your VPC
