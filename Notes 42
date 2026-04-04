@@ -5,3 +5,5 @@ Amazon Bedrock- must access encrypted S3 bucket
 - KMS Key with decrypt permission
 
 - deploy SageMaker Model in your VPC
+
+- Analyze bedrock access with CloudTrail
